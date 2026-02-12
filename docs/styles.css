@@ -43,6 +43,7 @@ h2 { font-family: "Tektur", sans-serif; font-size: clamp(1.5rem, 3vw, 2.25rem); 
 h3 { font-size: 1.15rem; }
 p { margin: 0 0 1em; color: var(--muted); }
 img { max-width: 100%; display: block; border-radius: 14px; }
+figcaption { margin: 0; }
 
 .container { width: min(1120px, calc(100% - 2rem)); margin: 0 auto; }
 .section { padding: 4.5rem 0; }
