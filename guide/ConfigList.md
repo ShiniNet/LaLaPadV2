@@ -1,10 +1,8 @@
-# LalaPadGen2で設定可能なコンフィグ一覧（IQS9151）
-
-`zmk-driver-iqs9151/drivers/input/Kconfig` を基準に、`lalapadv2_right.conf` でのデフォルト値を併記した一覧です。
-
+# LalaPadGen2で設定可能なコンフィグ一覧
+## トラックパッド（IQS9151）
 | Kconfig名 | デフォルト値 | 有効範囲/選択肢 | 概要 |
 | --- | --- | --- | --- |
-| `CONFIG_INPUT_IQS9151` | 未設定 | `y/n` | IQS9151ドライバの有効化 |
+| `CONFIG_INPUT_IQS9151` | `y` | `y/n` | IQS9151ドライバの有効化 |
 | `CONFIG_INPUT_IQS9151_ROTATE_*` | `ROTATE_0` | `0 / 90 / 180 / 270` | 座標系回転 |
 | `CONFIG_INPUT_IQS9151_RESOLUTION_X` | `2457` | `0..65535` | X解像度 |
 | `CONFIG_INPUT_IQS9151_RESOLUTION_Y` | `3072` | `0..65535` | Y解像度 |
