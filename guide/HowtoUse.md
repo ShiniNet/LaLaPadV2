@@ -52,9 +52,17 @@
 
 ### キーマップ全体
 
-以下に、デフォルトキーマップ全体の画像を掲載予定です。
 
-<!-- TODO: キーマップ全体画像を挿入 -->
+
+> [!TIP]
+> - ESC,TABは表記のある隣り合ったキーを同時押しすることで出力されます。
+> - 下段小文字で表現されるキー（LSHIFTや"="など）は長押しによって出力されます。
+> - システムレイヤーはLayer2と3キーの同時押しによって切り替わります。
+> - CURSOL/SCROLL SpeedUp/Dnキー押下によってトラックパッドの感度を調整可能です。Speed Resetキーで初期化できます。
+  
+
+<img width="732" height="1848" alt="my_keymap" src="https://github.com/user-attachments/assets/1974d10a-f3eb-41ab-810a-c80663e8854d" />
+
 
 ## トラックパッドの機能
 
@@ -67,9 +75,8 @@
 - ZMODにはズームインアウト時にスクロールと共に出力される修飾キーを指定します。デフォルトではLCTRLですが、MAC向けにCMDキー等を使いたい場合に有用です。
 
 ### トラックパッド用仮想キーマップ（MB1〜7+ZMOD）
-以下に、MB1〜7を印字した仮想キーマップ画像を掲載予定です。
 
-<!-- TODO: トラックパッド用仮想キーマップ画像（MB1〜MB7）を挿入 -->
+<img width="719" height="131" alt="my_TP_keymap " src="https://github.com/user-attachments/assets/fba08ddb-328f-4bff-b417-e644a0671dbe" />
 
 ### トラックパッドの機能一覧
 | レイヤー | Keymap | 操作内容 | デフォルト出力 |
