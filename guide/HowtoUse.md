@@ -41,7 +41,7 @@
 本キーマップは、マルチレイヤー構造により限られたキー数でフルキーボード相当の入力を表現する構成となっています。  
 標準設定はWindows環境での利用を想定しています。
 
-### レイヤーごとの説明
+### レイヤーごとの役割
 
 | レイヤー | 概要 |
 | --- | --- |
@@ -58,7 +58,7 @@
 > - ESC,TABは表記のある隣り合ったキーを同時押しすることで出力されます。
 > - 下段小文字で表現されるキー（LSHIFTや"="など）は長押しによって出力されます。
 > - システムレイヤーはLayer2と3キーの同時押しによって切り替わります。
-> - CURSOL/SCROLL SpeedUp/Dnキー押下によってトラックパッドの感度を調整可能です。Speed Resetキーで初期化できます。
+> - CURSOL/SCROLL SpeedUp/Dnキー押下によってトラックパッドの感度を調整可能です。Speed Resetキーで初期化できます。この設定は電源OFFにしても保持されます。
   
 
 <img width="732" height="1848" alt="my_keymap" src="https://github.com/user-attachments/assets/1974d10a-f3eb-41ab-810a-c80663e8854d" />
@@ -114,14 +114,11 @@ LalaPadGen2はZMKファームウェアの搭載により、すべてのキー及
 - ネイティブアプリ版を使えば無線接続のまま編集可能
 - ファームウェアのビルド不要
     
-    - 参考：[ZMK Studio - ZMK Firmwear Docs](https://zmk.dev/docs/features/studio)
 
 ### [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)を使用（推奨）
 - Webブラウザ上で簡単に編集可能
 - ZMK Studioより詳細な設定が可能
 - ファームウェアをビルドする為にGitHubアカウントが必要です
-    
-    - [KeymapEditorの使い方]()<br/>
  　
 
 ### ファームウェアを直接カスタマイズ
