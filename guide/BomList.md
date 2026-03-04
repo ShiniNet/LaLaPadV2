@@ -10,7 +10,7 @@
 | カテゴリ | 名称 | サイズ / 規格 | ブランド | 型番 (MPN) | 購入URL | 備考 |
 |---|---|---|---|---|---|---|
 | ダイオード | スイッチングダイオード | SOD-123, 75V, 0.15A | Diotec | 1N4148W | [digikey](https://www.digikey.com/en/products/detail/diotec-semiconductor/1N4148W/18833653) | |
-| LED | RGB LED | 2020 |  | FM-B2020RGBA-HG | [digikey](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/EASV2713RGBA1/11200807)  | |
+| LED | RGB LED | SMD,2.1x2.1mm | NATIONSTAR | FM-B2020RGBA-HG | [lcsc](https://www.lcsc.com/product-detail/C108793.html ) | |
 | コネクタ | FPCコネクタ | 6pin, 0.5mm pitch |  | FPC-05F-6PH20 | [lcsc](https://www.lcsc.com/product-detail/C2856796.html)  | |
 | コネクタ | JST PHコネクタ | 2pin, 2.0mm, SMT横向き | JST | S2B-PH-SM4-TB | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655)  | |
 | キースイッチ部品 | Choc用ホットスワップソケット| Choc v1/v2対応 | Kailh | CPG135001S30 | [talpkeyboard](https://shop.talpkeyboard.com/products/choc-kailh-pcbsocket-10)　 | [Kailh公式ページ](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/choc-type-hot-swap-socket.html)  |
