@@ -109,6 +109,10 @@ LaLaPadGen2はZMKファームウェアを搭載しており、すべてのキー
 
 - [キーコード一覧](https://zmk.dev/docs/keymaps/list-of-keycodes)
 - [Behavior一覧](https://zmk.dev/docs/keymaps/behaviors)
+
+> [!TIP]
+> - キーマップの変更やZMKのカスタムに関することは他のZMK系キーボードと大部分が共通しています。
+> - 本稿で扱いきれなかった具体的な作業手順やTIPS等がインターネット上に無数に公開されているので、適宜閲覧することを推奨いたします。
   
 ### [ZMK Studio（ベータ版）](https://zmk.studio/)を使用
 - Webブラウザ上で簡単に編集可能（USB経由）
