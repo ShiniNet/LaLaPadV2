@@ -125,6 +125,7 @@ LaLaPadGen2はZMKファームウェアを搭載しており、すべてのキー
 - Webブラウザ上で簡単に編集可能
 - ZMK Studioより詳細な設定が可能
 - ファームウェアをビルドするためにGitHubアカウントが必要です
+- [LalapadGen2のファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2)を自分用のコピーとしてフォークする必要があります。
   
 
 ### ファームウェアを直接カスタマイズ
