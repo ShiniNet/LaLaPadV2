@@ -396,7 +396,7 @@
 > [!WARNING]
 > - トラックパッド手前のキーキャップは予め取り外しておく必要があります。
 
-<img width="1162" height="512" alt="2026-02-23_21h59_35" src="https://github.com/user-attachments/assets/959826c4-cd30-49c4-b719-6c082c832051" /><BR/>
+<img width="2033" height="900" alt="2026-03-06_15h22_41" src="https://github.com/user-attachments/assets/f6675ee6-ccba-438d-baea-af24c5c35a21" />
 
 
 ### キーキャップとノブの取り付け
