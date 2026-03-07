@@ -212,6 +212,12 @@
 <img width="2403" height="1024" alt="2026-03-06_15h07_35" src="https://github.com/user-attachments/assets/df0bafba-71a8-45cf-aa3a-4eb9b09ad40b" />
 
 
+### トラックパッドモジュールの組み立て（旧バージョン）
+- 向きに注意しながら、トラックパッドケースにトラックパッドPCBを挿入します。
+- トラックパッドケースの突起がある方に対して、基板のICが無い側から挿入し、置くまで固定します。
+
+<img width="1310" height="512" alt="2026-03-07_15h02_13" src="https://github.com/user-attachments/assets/8f14c03a-68e6-4824-8035-8fa3f9292182" />
+
 
 ### 動作確認前チェックポイント
 - ここまでの工程を両手側でそれぞれ完了させます。
